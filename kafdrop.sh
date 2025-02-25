@@ -1,0 +1,1 @@
+docker run -p 9000:9000 -e KAFKA_BROKERCONNECT=104.248.236.197:9092 obsidiandynamics/kafdrop
